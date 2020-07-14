@@ -46161,9 +46161,9 @@ $.aY.V$.push(k)
 k=t.D
 o=t.h
 p.ch=new P.aF(new P.S($.P,k),o)
-switch(C.hm){case C.hm:n=new V.oU(C.hm,null,null,p.d,null)
+switch(C.hm){case C.j5:n=new V.oU(C.j5,null,null,p.d,null)
 break
-case C.j5:n=new V.oU(C.j5,p.d,null,null,null)
+case C.hm:n=new V.oU(C.hm,p.d,null,null,null)
 break
 case C.j6:n=new V.oU(C.j6,p.d,null,null,null)
 break
@@ -46517,10 +46517,10 @@ dS:function(a,b){return this.Qx(a,b)},
 Qx:function(a,b){var s=0,r=P.L(t.e),q,p=this,o
 var $async$dS=P.H(function(c,d){if(c===1)return P.I(d,r)
 while(true)switch(s){case 0:o=new F.It()
-switch(b.a){case C.hm:o.a=b.d
+switch(b.a){case C.j5:o.a=b.d
 o.c=b.e
 break
-case C.j5:o.b=b.b
+case C.hm:o.b=b.b
 o.d=C.xT.h(0,b.c)
 break
 case C.j6:o.b=b.b
@@ -46631,9 +46631,9 @@ dS:function(a,b){return this.Qz(a,b)},
 Qz:function(a,b){var s=0,r=P.L(t.e),q,p=this,o,n,m,l
 var $async$dS=P.H(function(c,d){if(c===1)return P.I(d,r)
 while(true)$async$outer:switch(s){case 0:l=p.b++
-switch(b.a){case C.j5:o=b.b
+switch(b.a){case C.hm:o=b.b
 break
-case C.hm:n=b.d
+case C.j5:n=b.d
 n=$.GY.p3(n)
 o=n
 break
@@ -48508,8 +48508,8 @@ C.o3=new K.CP(null,C.vu,C.ph,C.vw,C.ph,C.D9)
 C.vx=new K.oR(C.o3,null,null,null,null,null,null)
 C.j4=new K.wA("CupertinoUserInterfaceLevelData.base")
 C.pi=new K.wA("CupertinoUserInterfaceLevelData.elevated")
-C.hm=new V.oV("DataSourceType.asset")
-C.j5=new V.oV("DataSourceType.network")
+C.j5=new V.oV("DataSourceType.asset")
+C.hm=new V.oV("DataSourceType.network")
 C.j6=new V.oV("DataSourceType.file")
 C.vy=new A.II("DebugSemanticsDumpOrder.traversalOrder")
 C.j7=new E.wJ("DecorationPosition.background")
@@ -50310,7 +50310,7 @@ s($,"abV","bu",function(){return P.wk(4292730333)})
 s($,"abT","XM",function(){return P.wk(4284024202)})
 s($,"abS","jn",function(){return P.wk(4281744565)})
 s($,"abo","a3q",function(){var r=null
-return H.a([B.hp("Picnic Panic!","Picnic Panic is an award-winning casual game that won Android Masters 2018 Game Category. It took me about 3 months to build. Visit it on the Google Play Store!","assets/photos/picnic_panic.png","https://github.com/jamescasia/Picnic-Panic","https://www.facebook.com/gdgphilippines/posts/1380215135443747","https://play.google.com/store/apps/details?id=org.aetherapps.picnic.panic&hl=en","assets/videos/picnic-panic.mp4"),B.hp("Escape Velocity","Test your TIMING and PATIENCE in this crazy, beautiful, nerve-wracking hyper casual game.","assets/photos/esc_vel.png","https://github.com/jamescasia/Escape-Velocity",r,"https://play.google.com/store/apps/details?id=org.aetherapps.escape.velocity&hl=en","assets/videos/escape-velocity.mp4"),B.hp("Papyrus","Papyrus is a digital receipts and expense tracking app. This was our entry in Accenture's Program The Future 2019. Visit it on the Google Play Store!","assets/photos/papyrus.png","https://github.com/jamescasia/papyrus_client",r,"https://play.google.com/store/apps/details?id=org.aetherapps.papyrus_client.papyrus_client&hl=en","assets/videos/papyrus.mp4"),B.hp("HakkTaxi","HakkTaxi is Hakk.ai's entry for Microsoft Azure Hackathon Asia","assets/photos/hakk-taxi.png","https://github.com/jamescasia/hakkTaxi","https://www.msazurevirtualhack.com/","https://play.google.com/store/apps/details?id=hakk.ai.grabApp&hl=en","assets/videos/hakk-taxi.mp4"),B.hp("Mentallerts","MentAllerts is an award-winning app that utilizes Artificial Intelligence to predict the mental state of an individual based on tweets. This won 2nd place in the Alliance HackIT Challenge 2019.","assets/photos/mentalert.png",r,"https://www.facebook.com/AllianceSoftwareInc/posts/2574799315966572",r,"assets/videos/mentallerts.mp4"),B.hp("Color Flex","Color Flex! is an award-winning casual game that qualified for Android Masters 2018. Visit it on the Google Play Store!","assets/photos/color_flex.png","https://github.com/jamescasia/color-flex","https://www.facebook.com/gdgphilippines/posts/1367551843376743",r,"assets/videos/color-flex.mp4"),B.hp("Mansana","Mansana is a productivity app. I made this app freelance","assets/photos/mansana.png","https://github.com/jamescasia/Productive-App",r,r,"assets/videos/mansana.mp4"),B.hp("PlantApp","PlantApp is the Instagram/Pinterest for plants!","assets/photos/plant-app.png","https://github.com/jamescasia/plantApp",r,r,"assets/videos/plant-app.mp4"),B.hp("SmartCTV","Utilize your old smartphone as a featureful CCTV Camera! Uses Artificial Intelligence to detect intruders and uses messenger chatbot for instant notification! ","assets/photos/smart-ctv.png","https://github.com/jamescasia/SmartCTV",r,r,r),B.hp("DengueLytics","DengueLytics is a dengue tracking app.","assets/photos/denguelytics.png","https://github.com/jamescasia/DengueLytics",r,r,r)],H.ah("q<zO*>"))})
+return H.a([B.hp("Picnic Panic!","Picnic Panic is an award-winning casual game that won Android Masters 2018 Game Category. It took me about 3 months to build. Visit it on the Google Play Store!","assets/photos/picnic_panic.png","https://github.com/jamescasia/Picnic-Panic","https://www.facebook.com/gdgphilippines/posts/1380215135443747","https://play.google.com/store/apps/details?id=org.aetherapps.picnic.panic&hl=en","https://drive.google.com/file/d/11qxTKcmCeOJ8zGb8JJ7UlLZFvk1Vvd91/view?usp=sharing"),B.hp("Escape Velocity","Test your TIMING and PATIENCE in this crazy, beautiful, nerve-wracking hyper casual game.","assets/photos/esc_vel.png","https://github.com/jamescasia/Escape-Velocity",r,"https://play.google.com/store/apps/details?id=org.aetherapps.escape.velocity&hl=en","https://drive.google.com/file/d/1ARXrZgmAsrNkD99W9VR_ijSyOQPsqGpK/view?usp=sharing"),B.hp("Papyrus","Papyrus is a digital receipts and expense tracking app. This was our entry in Accenture's Program The Future 2019. Visit it on the Google Play Store!","assets/photos/papyrus.png","https://github.com/jamescasia/papyrus_client",r,"https://play.google.com/store/apps/details?id=org.aetherapps.papyrus_client.papyrus_client&hl=en","https://drive.google.com/file/d/197M857Xap5XA0hxYqOhic1S39ETSf9QC/view?usp=sharing"),B.hp("HakkTaxi","HakkTaxi is Hakk.ai's entry for Microsoft Azure Hackathon Asia","assets/photos/hakk-taxi.png","https://github.com/jamescasia/hakkTaxi","https://www.msazurevirtualhack.com/","https://play.google.com/store/apps/details?id=hakk.ai.grabApp&hl=en","https://drive.google.com/file/d/1-zyvKzUBn75TLjAfmzfevBFWJY7EXXFo/view?usp=sharing"),B.hp("Mentallerts","MentAllerts is an award-winning app that utilizes Artificial Intelligence to predict the mental state of an individual based on tweets. This won 2nd place in the Alliance HackIT Challenge 2019.","assets/photos/mentalert.png",r,"https://www.facebook.com/AllianceSoftwareInc/posts/2574799315966572",r,"https://drive.google.com/file/d/14fPXRJd13k5FK1JZlEJSshdU8Zt8HIeb/view?usp=sharing"),B.hp("Color Flex","Color Flex! is an award-winning casual game that qualified for Android Masters 2018. Visit it on the Google Play Store!","assets/photos/color_flex.png","https://github.com/jamescasia/color-flex","https://www.facebook.com/gdgphilippines/posts/1367551843376743",r,"https://drive.google.com/file/d/1460PLcL29NjfMDf3QbT5fE22_tX6VBi2/view?usp=sharing"),B.hp("Mansana","Mansana is a productivity app. I made this app freelance","assets/photos/mansana.png","https://github.com/jamescasia/Productive-App",r,r,"https://drive.google.com/file/d/1xPOy9sn8bc-T5rHJViQuxbFPpIqfq9Zs/view?usp=sharing"),B.hp("PlantApp","PlantApp is the Instagram/Pinterest for plants!","assets/photos/plant-app.png","https://github.com/jamescasia/plantApp",r,r,"https://drive.google.com/file/d/1IFLEvoZFRgXWq4L38plzSF6oODU0OaGS/view?usp=sharing"),B.hp("SmartCTV","Utilize your old smartphone as a featureful CCTV Camera! Uses Artificial Intelligence to detect intruders and uses messenger chatbot for instant notification! ","assets/photos/smart-ctv.png","https://github.com/jamescasia/SmartCTV",r,r,r),B.hp("DengueLytics","DengueLytics is a dengue tracking app.","assets/photos/denguelytics.png","https://github.com/jamescasia/DengueLytics",r,r,r)],H.ah("q<zO*>"))})
 s($,"acz","ZN",function(){return new P.F()})
 s($,"a7F","a41",function(){return new F.MU($.ZN())})
 s($,"adv","jo",function(){var r=$.a44()
